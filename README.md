@@ -1,3 +1,9 @@
+
+# Portfolio made with styled-components
+This Homepage is the made with styled-components modules.
+
+# Build a Stunning Portfolio with React JS using Styled-Components and framer-motion for awesome Animations
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
